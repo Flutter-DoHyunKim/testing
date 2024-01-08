@@ -6211,7 +6211,7 @@ var $async$ug=A.P(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:if($.aX==null)A.a1L()
 $.aX.toString
 s=2
-return A.B($.a0s().nN(0,".env"),$async$ug)
+return A.B($.a0s().nN(0,"env"),$async$ug)
 case 2:s=3
 return A.B(A.Mc(new A.J7(A.a3Y($.a0s().ua(0,"apiKey"),$.a0s().ua(0,"appId"),"fir-test-f0cd8.firebaseapp.com",null,"G-71MJD68VH0","848932212893","fir-test-f0cd8","fir-test-f0cd8.appspot.com")).gNm()),$async$ug)
 case 3:if($.aX==null)A.a1L()
